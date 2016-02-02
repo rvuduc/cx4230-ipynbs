@@ -1,7 +1,7 @@
 # ipynb-sp16
 
 This repository contains the IPython (Jupyter) notebooks for the Georgia Tech course,
-CX 4230: Computer Simulation, Spring 2016.
+[CX 4230: Computer Simulation, Spring 2016](http://cx4230.gatech.edu/sp16).
 
 Created and maintained by
   [Prof. Richard (Rich) Vuduc](http://vuduc.org)
